@@ -1,0 +1,17 @@
+.heading{
+    text-align: center;
+}
+#note{
+    text-align: left;
+    
+}
+img{
+    height: 200px;
+    width:200px;
+     border: 1px, #0d0b0b;
+    background: #100f0f;
+    margin: auto;
+    padding: 15px 10px;
+}
+
+    
